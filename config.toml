@@ -1,0 +1,26 @@
+
+baseURL = "https://yourname.github.io/"
+languageCode = "zh-tw"
+title = "Stanley 技術筆記"
+theme = "PaperMod"
+
+[params]
+  author = "Stanley"
+  description = "分享 Android、AI 與投資技術筆記"
+  ShowReadingTime = true
+  defaultTheme = "auto"
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+[params.profileMode]
+  enabled = true
+  title = "你好，我是 Stanley"
+  subtitle = "這是我的極簡技術筆記部落格"
+  imageUrl = "/images/avatar.png"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
