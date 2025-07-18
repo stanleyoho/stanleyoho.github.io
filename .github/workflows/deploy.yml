@@ -1,26 +1,27 @@
-name: Deploy Hugo site to GitHub Pages
+name: Build and Deploy Hugo site to GitHub Pages
 
 on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v3
-        with:
-          submodules: true
-          fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.126.1'  # ✅ 改為支援 PaperMod 的版本
-          extended: true
+      - name: Install Hugo v0.148.1
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.148.1/hugo_extended_0.148.1_linux-amd64.tar.gz
+          tar -xzf hugo_extended_0.148.1_linux-amd64.tar.gz
+          sudo mv hugo /usr/local/bin/hugo
+          hugo version
 
-      - name: Build website
+      - name: Build Hugo site
         run: hugo --minify
 
       - name: Deploy to GitHub Pages

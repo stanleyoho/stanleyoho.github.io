@@ -1,0 +1,42 @@
+baseURL = "https://你的帳號.github.io/"  # ⚠️ 替換成你的 GitHub Pages 網址
+title = "Stanley's 技術部落格"
+theme = "PaperMod"
+defaultContentLanguage = "zh-tw"
+languageCode = 'en-us'
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Stanley"
+  description = "專注分享程式、投資、開源專案"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  comments = false  # 可改為 true 並加上留言系統設定
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "🏠 首頁"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "📝 所有文章"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "👤 關於我"
+    url = "/about/"
+    weight = 3
+
+[markup]
+  [markup.highlight]
+    noClasses = false  # 讓程式碼語法高亮生效
