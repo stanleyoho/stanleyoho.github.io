@@ -1,12 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Stanley&#39;s 技術部落格</title>
-    <link>http://localhost:60390/</link>
-    <description>Recent content on Stanley&#39;s 技術部落格</description>
+    <title>Stanley&#39;s blog</title>
+    <link>http://localhost:61182/</link>
+    <description>Recent content on Stanley&#39;s blog</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:60390/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:61182/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:61182/about/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61182/about/</guid>
+      <description>&lt;p&gt;👋 Hi，我是 &lt;strong&gt;Stanley&lt;/strong&gt;，一位熱衷於技術創新、AI 應用與投資策略研究的軟體工程師。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-技術專長&#34;&gt;🔧 技術專長&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Android / Flutter / KMM 行動開發&lt;/li&gt;
+&lt;li&gt;本地 AI 架構（Ollama + Gemma + MCP）&lt;/li&gt;
+&lt;li&gt;Hugo + GitHub Pages 建立技術部落格&lt;/li&gt;
+&lt;li&gt;Git / Azure DevOps CI/CD&lt;/li&gt;
+&lt;li&gt;資產配置策略、台美股 ETF／個股研究&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-工作背景&#34;&gt;💼 工作背景&lt;/h2&gt;
+&lt;p&gt;目前任職於 ViewSonic，參與 Android 投影機系統、AirSync、遠端控制等核心模組開發。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-投資理念&#34;&gt;📈 投資理念&lt;/h2&gt;
+&lt;p&gt;我專注於：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;建立低監控、高效率的資產配置模型&lt;/li&gt;
+&lt;li&gt;結合技術分析（RSI、年線、VIX）與動態加碼策略&lt;/li&gt;
+&lt;li&gt;藉由月配息與複利模擬追求財務自由&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-聯絡我&#34;&gt;🔗 聯絡我&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📬 Email: &lt;code&gt;stanley@example.com&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;💼 &lt;a href=&#34;https://www.linkedin.com/in/stanleyoho/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💻 &lt;a href=&#34;https://github.com/stanleyoho&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

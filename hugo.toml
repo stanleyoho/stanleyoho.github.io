@@ -1,7 +1,7 @@
-baseURL = "https://你的帳號.github.io/"  # ⚠️ 替換成你的 GitHub Pages 網址
-title = "Stanley's 技術部落格"
+baseURL = "https://stanleyoho.github.io/"  # ⚠️ 替換成你的 GitHub Pages 網址
+title = "Stanley's blog"
 theme = "PaperMod"
-defaultContentLanguage = "zh-tw"
+defaultContentLanguage = "en-us"
 languageCode = 'en-us'
 enableRobotsTXT = true
 
@@ -17,6 +17,10 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   comments = false  # 可改為 true 並加上留言系統設定
+
+[params.profileMode]
+  enabled = true
+  imageUrl = "images/avatar.jpeg"
 
 [menu]
   [[menu.main]]
