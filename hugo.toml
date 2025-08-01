@@ -1,26 +1,27 @@
 baseURL = "https://stanleyoho.github.io/"
 
+
 # 更改使用 Hugo 构建网站时使用的默认主题
 
 theme = "LoveIt"
 
+
 # 网站标题
 
-title = "我的全新 Hugo 网站"
+title = "Stanley's Blogger"
 
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 
-languageCode = "en"
+languageCode = "zh-CN"
 
 # 语言名称 ["English", "简体中文", "Français", "Polski", ...]
 
-languageName = "English"
+languageName = "简体中文"
 
 # 是否包括中日韩文字
 
 hasCJKLanguage = true
-
 
 
 # 版权描述，仅仅用于 SEO
@@ -120,7 +121,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     title = ""
 
 
-
 [params]
 
   # 网站默认主题样式 ["auto", "light", "dark"]
@@ -143,23 +143,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # 网站标题, 用于 Open Graph 和 Twitter Cards
 
-  title = "Stanley's Website"
+  title = "Stanley's Blogger"
 
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
 
-  description = "这是我的全新 Hugo 网站"
+  description = "a personal life blogger."
 
   # 网站图片, 用于 Open Graph 和 Twitter Cards
 
   images = ["/logo.png"]
 
 
-
   # 作者配置
 
   [params.author]
 
-    name = "Stanley"
+    name = "Stanley Lin"
 
     email = "stanly7768@gmail.com"
 
@@ -189,7 +188,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # 标题名称
 
-      name = "Stanley's Website"
+      name = "Stanley's Blogger"
 
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
 
@@ -229,7 +228,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
     # 网站创立年份
 
-    since = 2019
+    since = 2025
 
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
 
@@ -283,7 +282,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
 
-    title = "Stanley's Website"
+    title = "Stanley's Blogger"
 
     # 是否隐藏网站图标资源链接
 
@@ -371,15 +370,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # 主页显示头像的 URL
 
-      avatarURL = "/images/avatar.jpeg"
+      avatarURL = "/images/avatar.png"
 
       #  主页显示的网站标题 (支持 HTML 格式)
 
-      title = "Stanley's Website"
+      title = ""
 
       # 主页显示的网站副标题 (允许 HTML 格式)
 
-      subtitle = "a personal work, life, tech sharing blog"
+      subtitle = "a personal life blog."
 
       # 是否为副标题显示打字机动画
 
@@ -575,7 +574,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
     Phone = ""
 
-    Email = ""	#stanly7768@gmail.com
+    Email = ""
 
     RSS = false # 
 
@@ -713,15 +712,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       enable = true
 
-      X = false # 
+      X = true # 
 
       Twitter = false # 
 
-      Threads = false # 
+      Threads = true # 
 
-      Facebook = false
+      Facebook = true
 
-      Linkedin = true
+      Linkedin = false
 
       Whatsapp = false
 
@@ -739,7 +738,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       Xing = false
 
-      Line = false
+      Line = true
 
       Instapaper = false
 
@@ -761,11 +760,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       Trello = false
 
-      Diaspora = false # 
+      Diaspora = true # 
 
       Mix = false
 
-      Telegram = false # 
+      Telegram = true # 
 
     #  评论系统设置
 

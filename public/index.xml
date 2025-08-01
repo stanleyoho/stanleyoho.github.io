@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>Stanley&#39;s Blogger</title>
         <link>http://localhost:1313/</link>
-        <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>stanly7768@gmail.com (Stanley)</managingEditor>
-            <webMaster>stanly7768@gmail.com (Stanley)</webMaster><lastBuildDate>Fri, 01 Aug 2025 08:49:44 &#43;0800</lastBuildDate>
+        <description>a personal life blogger.</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>stanly7768@gmail.com (Stanley Lin)</managingEditor>
+            <webMaster>stanly7768@gmail.com (Stanley Lin)</webMaster><lastBuildDate>Fri, 01 Aug 2025 08:49:44 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Third Post</title>
     <link>http://localhost:1313/third-post/</link>
     <pubDate>Fri, 01 Aug 2025 08:49:44 &#43;0800</pubDate>
-    <author>Stanley</author>
+    <author>Stanley Lin</author>
     <guid>http://localhost:1313/third-post/</guid>
     <description><![CDATA[<p>test333</p>]]></description>
 </item>
@@ -18,7 +18,7 @@
     <title>Second Post</title>
     <link>http://localhost:1313/second-post/</link>
     <pubDate>Fri, 01 Aug 2025 08:48:47 &#43;0800</pubDate>
-    <author>Stanley</author>
+    <author>Stanley Lin</author>
     <guid>http://localhost:1313/second-post/</guid>
     <description><![CDATA[<p>test222</p>]]></description>
 </item>
@@ -26,7 +26,7 @@
     <title>First Post</title>
     <link>http://localhost:1313/first-post/</link>
     <pubDate>Fri, 01 Aug 2025 08:41:38 &#43;0800</pubDate>
-    <author>Stanley</author>
+    <author>Stanley Lin</author>
     <guid>http://localhost:1313/first-post/</guid>
     <description><![CDATA[<p>test 111dd11212</p>]]></description>
 </item>
