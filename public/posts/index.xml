@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
-        <link>http://localhost:1313/</link>
-        <description>这是我的全新 Hugo 网站</description>
+        <title>All Posts - 我的全新 Hugo 网站</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | 我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>stanly7768@gmail.com (Stanley)</managingEditor>
-            <webMaster>stanly7768@gmail.com (Stanley)</webMaster><lastBuildDate>Fri, 01 Aug 2025 08:49:44 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>stanly7768@gmail.com (Stanley)</webMaster><lastBuildDate>Fri, 01 Aug 2025 08:49:44 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Third Post</title>
     <link>http://localhost:1313/third-post/</link>
     <pubDate>Fri, 01 Aug 2025 08:49:44 &#43;0800</pubDate>
