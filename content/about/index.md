@@ -4,8 +4,8 @@ draft = false
 title = 'About'
 tags = ['']
 categories = []
-description = "This article shows the basic Markdown syntax and format."
 lightgallery = true
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
+twate 123
