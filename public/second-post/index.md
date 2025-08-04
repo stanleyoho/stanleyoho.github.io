@@ -1,3 +1,3 @@
-# Second Post
+# Post Template
 
 test222
