@@ -4,7 +4,6 @@ draft = false
 title = 'About Me'
 tags = ['']
 categories = []
-description = "This article shows the basic Markdown syntax and format."
 lightgallery = true
 +++
 <table>
@@ -47,3 +46,4 @@ Love to work with a team to solve any kind of problems and overcome all difficul
 </td>
 </tr>
 </table>
+

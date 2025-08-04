@@ -9,7 +9,11 @@
     <managingEditor>stanly7768@gmail.com (Stanley Lin)</managingEditor>
     <webMaster>stanly7768@gmail.com (Stanley Lin)</webMaster>
     <lastBuildDate>Fri, 01 Aug 2025 15:27:47 +0800</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:52345/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> fc4240e33b0ffa29e68f5f174b326b7c3a3decd3
     <item>
       <title>Test</title>
       <link>http://localhost:52345/categories/test/</link>

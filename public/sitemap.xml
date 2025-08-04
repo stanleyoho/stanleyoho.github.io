@@ -2,17 +2,17 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:52345/categories/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/categories/documentation/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/</loc><lastmod>2025-08-01T15:56:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/about/</loc><lastmod>2025-08-01T15:56:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/posts/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/categories/test/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/tags/test/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/third-post/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/second-post/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/first-post/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/tags/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/tags/content/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/tags/installation/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:52345/tags/configuration/</loc><lastmod>2025-08-01T15:27:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2025-08-01T14:53:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/documentation/</loc><lastmod>2025-08-01T14:53:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-08-01T14:53:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/about/</loc><lastmod>2025-08-01T14:52:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-08-01T09:23:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-08-01T09:23:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/test/</loc><lastmod>2025-08-01T09:23:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/test/</loc><lastmod>2025-08-01T09:23:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/third-post/</loc><lastmod>2025-08-01T09:23:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/second-post/</loc><lastmod>2025-08-01T09:23:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/first-post/</loc><lastmod>2025-08-01T09:23:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
