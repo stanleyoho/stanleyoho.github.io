@@ -1,0 +1,27 @@
+# Hugo build folder (除非你直接用 public/ 部署 GitHub Pages 才保留)
+public/
+resources/
+hugo_stats.json
+hugo_cache/
+
+# OS 系統與 IDE 相關
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# VSCode 設定
+.vscode/
+
+# Netlify or other deploy artifacts
+netlify.toml
+
+# Build logs
+*.log
+
+# 繁體字形暫存或臨時測試檔案
+test*
+temp*
+*.local.*
