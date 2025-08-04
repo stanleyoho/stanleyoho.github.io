@@ -1,7 +1,7 @@
 +++
 date = '2025-08-01T14:52:29+08:00'
 draft = false
-title = ''
+title = 'About Me'
 tags = ['']
 categories = []
 lightgallery = true
@@ -24,7 +24,7 @@ lightgallery = true
 
 # Work Experience
 
-### Sr. Software Engineer, <a href="https://www.viewsonic.com" target="_blank">Viewsonic</a> <span style="float:right;">Aug 2023 – Present</span>
+### Sr. Software Engineer, <a href="https://www.viewsonic.com" target="_blank">Viewsonic</a> <span class="right-no-bold">Aug 2023 – Present</span>
 
 <sub>Android / C / C++ / Java / Kotlin</sub>
 
@@ -35,7 +35,7 @@ lightgallery = true
 
 ---
 
-### Sr. Software Engineer, <a href="https://www.optoma.com" target="_blank">Optoma</a> <span style="float:right;">Dec 2023 – Aug 2024</span>
+### Sr. Software Engineer, <a href="https://www.optoma.com" target="_blank">Optoma</a> <span class="right-no-bold">Dec 2023 – Aug 2024</span>
 
 <sub>Android / C / C++ / Java / Kotlin</sub>
 
@@ -46,17 +46,17 @@ lightgallery = true
 
 ---
 
-### Android App Developer, <a href="https://www.linkedin.com/company/yt-taiwan/" target="_blank">Yingtong Technology</a> <span style="float:right;">Jan 2023 – Dec 2023</span>
+### Android App Developer, <a href="https://www.linkedin.com/company/yt-taiwan/" target="_blank">Yingtong Technology</a> <span class="right-no-bold">Jan 2023 – Dec 2023</span>
 
 <sub>Android / Java / Flutter / Kotlin</sub>
 
-- Designed API data architecture and integrated APIs.  
+- Designed API data architecture and intddegrated APIs.  
 - Maintained & developed product features (Flutter, Kotlin, RX, Java).
 - Maintained card game & live streaming features.
 
 ---
 
-### Android App Developer, <a href="https://www.wanintek.com" target="_blank">Wanin Tech</a> <span style="float:right;">Apr 2019 – Dec 2023</span>
+### Android App Developer, <a href="https://www.wanintek.com" target="_blank">Wanin Tech</a> <span class="right-no-bold">Apr 2019 – Dec 2023</span>
 
 <sub>Android / Kotlin</sub>
 
@@ -66,16 +66,16 @@ lightgallery = true
 
 ---
 
-### Android App Developer, <a href="https://www.viewsonic.com" target="_blank">ViewSonic</a> <span style="float:right;">Oct 2018 – Apr 2019</span>
+### Android App Developer, <a href="https://www.viewsonic.com" target="_blank">ViewSonic</a> <span class="right-no-bold">Oct 2018 – Apr 2019</span>
 
 <sub>Android / Java / Kotlin</sub>
 
-- Maintained Android apps and DevOps CI/CD with Azure.  
+- Maintained Android apps and DevOps CI/CD with Azure.
 - Built drawing functions with canvas on whiteboard.
 
 ---
 
-### Android App Developer, <a href="https://www.linkedin.com/company/gsit-tw/" target="_blank">GSIT</a> <span style="float:right;">Sep 2017 - Oct 2018</span>
+### Android App Developer, <a href="https://www.linkedin.com/company/gsit-tw/" target="_blank">GSIT</a> <span class="right-no-bold">Sep 2017 - Oct 2018</span>
 <sub>Android / Java</sub>
 
 - Application development and maintenance  
@@ -86,7 +86,7 @@ lightgallery = true
 
 ---
 
-### Android App Developer, Institute for Information Industry <span style="float:right;">Feb 2017 - Jul 2017</span>
+### Android App Developer, Institute for Information Industry <span class="right-no-bold">Feb 2017 - Jul 2017</span>
 <sub>Android / Java / JavaScript / HTML / CSS / jQuery</sub>
 
 **Cloud Service Developer Training Course**  
@@ -98,7 +98,7 @@ lightgallery = true
 
 ---
 
-### Embedded Software Developer, <a href="https://www.nexcom.com.tw/" target="_blank">Nexcom</a> <span style="float:right;">Nov 2014 - Feb 2017</span>
+### Embedded Software Developer, <a href="https://www.nexcom.com.tw/" target="_blank">Nexcom</a> <span class="right-no-bold">Nov 2014 - Feb 2017</span>
 <sub>C# / C++</sub>
 
 - Customized Windows OS: Win7/8/10, WinCE7, IoTCore  

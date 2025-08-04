@@ -145,7 +145,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
 
-  gitRepo = ""
+  gitRepo = "https://github.com/stanleyoho/stanleyoho.github.io"
 
   #  哪种哈希函数用来 SRI, 为空时表示不使用 SRI
 
@@ -169,6 +169,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   images = ["/logo.png"]
 
+  #custom css
+  custom_css = ["assets/css/custom.css"]
 
   # 作者配置
 
@@ -959,6 +961,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.page.library]
 
       [params.page.library.css]
+
+        myCss = "css/_custom.scss"
 
         # someCSS = "some.css"
 

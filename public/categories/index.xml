@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Stanley&#39;s Blogger</title>
-    <link>http://localhost:56933/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Stanley&#39;s Blogger</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>stanly7768@gmail.com (Stanley Lin)</managingEditor>
     <webMaster>stanly7768@gmail.com (Stanley Lin)</webMaster>
     <lastBuildDate>Mon, 04 Aug 2025 11:48:45 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56933/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:56933/categories/test/</link>
+      <link>http://localhost:1313/categories/test/</link>
       <pubDate>Fri, 01 Aug 2025 08:49:44 +0800</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author>
-      <guid>http://localhost:56933/categories/test/</guid>
+      <guid>http://localhost:1313/categories/test/</guid>
       <description></description>
     </item>
   </channel>
