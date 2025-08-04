@@ -1,4 +1,4 @@
-# About Me
+# 
 
 <p style="text-align: center;">
   <img src="avatar.png" style="border-radius: 50%; width: 120px;"><br>
@@ -40,7 +40,7 @@
 
 ---
 
-### Android App Developer, <a href="https://www.yingtong.com" target="_blank">Yingtong Technology</a> <span style="float:right;">Jan 2023 – Dec 2023</span>
+### Android App Developer, <a href="https://www.linkedin.com/company/yt-taiwan/" target="_blank">Yingtong Technology</a> <span style="float:right;">Jan 2023 – Dec 2023</span>
 
 <sub>Android / Java / Flutter / Kotlin</sub>
 

@@ -1,7 +1,7 @@
 +++
 date = '2025-08-01T14:52:29+08:00'
 draft = false
-title = 'About Me'
+title = ''
 tags = ['']
 categories = []
 lightgallery = true
@@ -46,7 +46,7 @@ lightgallery = true
 
 ---
 
-### Android App Developer, <a href="https://www.yingtong.com" target="_blank">Yingtong Technology</a> <span style="float:right;">Jan 2023 – Dec 2023</span>
+### Android App Developer, <a href="https://www.linkedin.com/company/yt-taiwan/" target="_blank">Yingtong Technology</a> <span style="float:right;">Jan 2023 – Dec 2023</span>
 
 <sub>Android / Java / Flutter / Kotlin</sub>
 
