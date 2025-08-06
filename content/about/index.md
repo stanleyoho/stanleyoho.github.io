@@ -52,85 +52,135 @@ lightgallery = true
 
 </div>
 
-# Work Experience
+<div class="work-experience">
 
-### Sr. Software Engineer, <a href="https://www.viewsonic.com" target="_blank">Viewsonic</a> <span class="right-no-bold">Aug 2023 – Present</span>
+<h1>Work Experience</h1>
 
-<sub>Android / C / C++ / Java / Kotlin</sub>
+<div class="experience-timeline">
 
-- Lead a 3-member development team, responsible for enterprise-level MDM (Mobile Device
- Management) system development and maintenance.
-- Established team development standards and code review mechanisms to improve overall code
- quality and development efficiency.
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Sr. Software Engineer, <a href="https://www.viewsonic.com" target="_blank">ViewSonic</a></h3>
+    <span class="experience-date">Aug 2023 – Present</span>
+  </div>
+  <div class="experience-tech">Android / C / C++ / Java / Kotlin</div>
+  <div class="experience-description">
+    <ul>
+      <li>Lead a 3-member development team, responsible for enterprise-level MDM (Mobile Device Management) system development and maintenance</li>
+      <li>Established team development standards and code review mechanisms to improve overall code quality and development efficiency</li>
+      <li>Architected and implemented scalable solutions for device management across multiple Android platforms</li>
+    </ul>
+  </div>
+</div>
 
----
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Sr. Software Engineer, <a href="https://www.optoma.com" target="_blank">Optoma</a></h3>
+    <span class="experience-date">Dec 2022 – Aug 2023</span>
+  </div>
+  <div class="experience-tech">Android / C / C++ / Java / Kotlin</div>
+  <div class="experience-description">
+    <ul>
+      <li>Integrated APIs and optimized projection processes through Boost framework</li>
+      <li>Adjusted mirroring processes for multiple devices (media codec encode & decode)</li>
+      <li>Conducted integration testing for cross-platform projection compatibility</li>
+      <li>Released receiver-side SOTA updates & Google Play submissions</li>
+    </ul>
+  </div>
+</div>
 
-### Sr. Software Engineer, <a href="https://www.optoma.com" target="_blank">Optoma</a> <span class="right-no-bold">Dec 2023 – Aug 2024</span>
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Android App Developer, <a href="https://www.linkedin.com/company/yt-taiwan/" target="_blank">Yingtong Technology</a></h3>
+    <span class="experience-date">Jan 2022 – Dec 2022</span>
+  </div>
+  <div class="experience-tech">Android / Java / Flutter / Kotlin</div>
+  <div class="experience-description">
+    <ul>
+      <li>Designed API data architecture and integrated RESTful APIs</li>
+      <li>Maintained & developed product features using Flutter, Kotlin, RxJava</li>
+      <li>Implemented card game mechanics and live streaming features</li>
+      <li>Collaborated with backend team to optimize data flow and user experience</li>
+    </ul>
+  </div>
+</div>
 
-<sub>Android / C / C++ / Java / Kotlin</sub>
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Android App Developer, <a href="https://www.wanintek.com" target="_blank">Wanin Tech</a></h3>
+    <span class="experience-date">Apr 2019 – Dec 2021</span>
+  </div>
+  <div class="experience-tech">Android / Kotlin</div>
+  <div class="experience-description">
+    <ul>
+      <li>System architecture design & project setup from ground up</li>
+      <li>UI/UX collaboration & financial API integration</li>
+      <li>Built hybrid WebView applications with Flutter framework</li>
+    </ul>
+  </div>
+</div>
 
-- Integrated APIs and optimized the process through Boost.  
-- Adjusted mirroring processes for multiple devices (media codec encode & decode).
-- Conducted integration testing for cross-platform projection compatibility.
-- Released receiver-side SOTA updates & Google Play submissions.
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Android App Developer, <a href="https://www.viewsonic.com" target="_blank">ViewSonic</a></h3>
+    <span class="experience-date">Oct 2018 – Apr 2019</span>
+  </div>
+  <div class="experience-tech">Android / Java / Kotlin</div>
+  <div class="experience-description">
+    <ul>
+      <li>Maintained Android applications and implemented DevOps CI/CD with Azure</li>
+      <li>Built interactive drawing functions using Canvas API for whiteboard applications</li>
+    </ul>
+  </div>
+</div>
 
----
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Android App Developer, <a href="https://www.linkedin.com/company/gsit-tw/" target="_blank">GSIT</a></h3>
+    <span class="experience-date">Sep 2017 – Oct 2018</span>
+  </div>
+  <div class="experience-tech">Android / Java</div>
+  <div class="experience-description">
+    <ul>
+      <li>Application development and maintenance following Material Design principles</li>
+      <li>Collaborated with UI Designers to enhance user interface presentation</li>
+      <li>Integrated RESTful APIs and handled JSON data exchange</li>
+      <li>Built comprehensive unit tests for function validation</li>
+      <li>Utilized GitLab and Jenkins for version control and CI/CD pipeline</li>
+    </ul>
+  </div>
+</div>
 
-### Android App Developer, <a href="https://www.linkedin.com/company/yt-taiwan/" target="_blank">Yingtong Technology</a> <span class="right-no-bold">Jan 2023 – Dec 2023</span>
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Cloud Service Developer Trainee, Institute for Information Industry</h3>
+    <span class="experience-date">Feb 2017 – Jul 2017</span>
+  </div>
+  <div class="experience-tech">Android / Java / JavaScript / HTML / CSS / jQuery</div>
+  <div class="experience-description">
+    <ul>
+      <li><strong>Training Program:</strong> Comprehensive course covering Java, Android, web technologies, Servlet, JSP, Oracle DB</li>
+      <li><strong>Final Project:</strong> Motorcycle Rental System - Full-stack development</li>
+      <li><strong>Key Responsibilities:</strong> API server development & Android application implementation</li>
+    </ul>
+  </div>
+</div>
 
-<sub>Android / Java / Flutter / Kotlin</sub>
+<div class="experience-item">
+  <div class="experience-header">
+    <h3 class="experience-title">Embedded Software Developer, <a href="https://www.nexcom.com.tw/" target="_blank">Nexcom</a></h3>
+    <span class="experience-date">Nov 2014 – Feb 2017</span>
+  </div>
+  <div class="experience-tech">C# / C++</div>
+  <div class="experience-description">
+    <ul>
+      <li>Customized Windows OS deployments: Win7/8/10, WinCE7, IoTCore</li>
+      <li>Developed and maintained comprehensive product testing programs for I/O, Wi-Fi, Bluetooth, I2C, SPI, Display interfaces</li>
+      <li>Built cloud-integrated applications using Microsoft Azure Services</li>
+    </ul>
+  </div>
+</div>
 
-- Designed API data architecture and intddegrated APIs.  
-- Maintained & developed product features (Flutter, Kotlin, RX, Java).
-- Maintained card game & live streaming features.
+</div>
 
----
-
-### Android App Developer, <a href="https://www.wanintek.com" target="_blank">Wanin Tech</a> <span class="right-no-bold">Apr 2019 – Dec 2023</span>
-
-<sub>Android / Kotlin</sub>
-
-- System architecture design & project setup.  
-- UI collaboration & finance API integration.  
-- Built WebView apps with Flutter.
-
----
-
-### Android App Developer, <a href="https://www.viewsonic.com" target="_blank">ViewSonic</a> <span class="right-no-bold">Oct 2018 – Apr 2019</span>
-
-<sub>Android / Java / Kotlin</sub>
-
-- Maintained Android apps and DevOps CI/CD with Azure.
-- Built drawing functions with canvas on whiteboard.
-
----
-
-### Android App Developer, <a href="https://www.linkedin.com/company/gsit-tw/" target="_blank">GSIT</a> <span class="right-no-bold">Sep 2017 - Oct 2018</span>
-<sub>Android / Java</sub>
-
-- Application development and maintenance  
-- Collaborated with UI Designer to enhance UI presentation following Material Design  
-- Integrated RESTful APIs and exchanged data via JSON  
-- Built unit tests for function validation  
-- Used GitLab and Jenkins for version control and CI/CD
-
----
-
-### Android App Developer, Institute for Information Industry <span class="right-no-bold">Feb 2017 - Jul 2017</span>
-<sub>Android / Java / JavaScript / HTML / CSS / jQuery</sub>
-
-**Cloud Service Developer Training Course**  
-- Course content:  
-  Java, Android, HTML, JavaScript, CSS, jQuery  
-  Servlet, JSP, Oracle DB  
-- Final presentation project: **Motorcycle Rental System**  
-  - **Key responsibilities:** API server & Android App development
-
----
-
-### Embedded Software Developer, <a href="https://www.nexcom.com.tw/" target="_blank">Nexcom</a> <span class="right-no-bold">Nov 2014 - Feb 2017</span>
-<sub>C# / C++</sub>
-
-- Customized Windows OS: Win7/8/10, WinCE7, IoTCore  
-- Developed and maintained product testing programs: I/O, Wi-Fi, Bluetooth, I2C, SPI, Display  
-- Developed cloud applications with Azure Services
+</div>
