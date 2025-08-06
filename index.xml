@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stanley's Blogger</title><link>https://stanleyoho.github.io/</link><description>Recent content on Stanley's Blogger</description><generator>Hugo</generator><language>en</language><managingEditor>stanly7768@gmail.com (Stanley Lin)</managingEditor><webMaster>stanly7768@gmail.com (Stanley Lin)</webMaster><lastBuildDate>Wed, 06 Aug 2025 22:48:19 +0800</lastBuildDate><atom:link href="https://stanleyoho.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Categories</title><link>https://stanleyoho.github.io/categories/documentation/</link><pubDate>Fri, 01 Aug 2025 14:53:11 +0800</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/categories/documentation/</guid><description/></item><item><title>About Me</title><link>https://stanleyoho.github.io/about/</link><pubDate>Fri, 01 Aug 2025 14:52:29 +0800</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/about/</guid><description>&lt;div class="about-profile">
+&lt;div class="profile-header">
+ &lt;div class="profile-avatar">
+ &lt;img src="https://stanleyoho.github.io/images/avatar.png" alt="Stanley Lin" class="avatar-img">
+ &lt;/div>
+ &lt;div class="profile-info">
+ &lt;h1 class="profile-name">Stanley Lin&lt;/h1>
+ &lt;p class="profile-title">Senior Android Engineer&lt;/p>
+ &lt;p class="profile-summary">Passionate about creating exceptional mobile experiences and leading development teams to deliver innovative solutions.&lt;/p>
+ &lt;/div>
+&lt;/div>
+&lt;div class="profile-stats">
+ &lt;div class="stat-item">
+ &lt;div class="stat-number">9+&lt;/div>
+ &lt;div class="stat-label">Years Software Development&lt;/div>
+ &lt;/div>
+ &lt;div class="stat-item">
+ &lt;div class="stat-number">6+&lt;/div>
+ &lt;div class="stat-label">Years Android Development&lt;/div>
+ &lt;/div>
+ &lt;div class="stat-item">
+ &lt;div class="stat-number">3+&lt;/div>
+ &lt;div class="stat-label">Years Embedded Systems&lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;div class="profile-highlights">
+ &lt;div class="highlight-item">
+ &lt;h3>🏗️ Full-Stack Mobile Developer&lt;/h3>
+ &lt;p>From architecture design to end product delivery, I build complete solutions independently while thriving in collaborative team environments.&lt;/p>
+ &lt;/div>
+ &lt;div class="highlight-item">
+ &lt;h3>👥 Technical Leadership&lt;/h3>
+ &lt;p>Currently leading a 3-member development team, establishing coding standards and mentoring developers to deliver high-quality solutions.&lt;/p>
+ &lt;/div>
+ &lt;div class="highlight-item">
+ &lt;h3>🚀 Innovation Driver&lt;/h3>
+ &lt;p>Passionate about exploring new technologies, contributing to open-source projects, and solving complex technical challenges.&lt;/p></description></item><item><title>Third Post</title><link>https://stanleyoho.github.io/third-post/</link><pubDate>Fri, 01 Aug 2025 08:49:44 +0800</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/third-post/</guid><description>&lt;p>test333&lt;/p></description></item><item><title>Post Template</title><link>https://stanleyoho.github.io/second-post/</link><pubDate>Fri, 01 Aug 2025 08:48:47 +0800</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/second-post/</guid><description>&lt;p>test222&lt;/p></description></item><item><title>Tags Templeate</title><link>https://stanleyoho.github.io/first-post/</link><pubDate>Fri, 01 Aug 2025 08:41:38 +0800</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/first-post/</guid><description>&lt;p>&lt;img src="https://img.shields.io/badge/release-v0.3.0-orange" alt="Release">
+&lt;img src="https://img.shields.io/badge/Hugo-%5E0.128.0-pink" alt="Hugo">
+&lt;img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
+&lt;img src="https://img.shields.io/github/stars/dillonzq/LoveIt?style=social" alt="Stars">
+&lt;img src="https://img.shields.io/github/forks/dillonzq/LoveIt?style=social" alt="Forks">
+&lt;img src="https://img.shields.io/badge/Medium-12100E.svg?logo=medium&amp;amp;logoColor=white" alt="Medium">
+&lt;img src="https://img.shields.io/badge/DEV.TO-0A0A0A.svg?logo=dev-dot-to&amp;amp;logoColor=white" alt="DEV.to">
+&lt;img src="https://img.shields.io/badge/blogger-FF5722.svg?logo=blogger&amp;amp;logoColor=white" alt="blogger">
+&lt;img src="https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&amp;amp;logoColor=white" alt="RSS">
+&lt;img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;amp;logoColor=white" alt="Python">
+&lt;img src="https://img.shields.io/badge/HTML-239120.svg?logo=html5&amp;amp;logoColor=white" alt="HTML">
+&lt;img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&amp;amp;logoColor=white" alt="HTML5">
+&lt;img src="https://img.shields.io/badge/CSS-239120.svg?logo=css3&amp;amp;logoColor=white" alt="CSS">
+&lt;img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&amp;amp;logoColor=white" alt="CSS3">
+&lt;img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&amp;amp;logoColor=F7DF1E" alt="JavaScript">
+&lt;img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&amp;amp;logoColor=white" alt="TypeScript">
+&lt;img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&amp;amp;logoColor=white" alt="Node">
+&lt;img src="https://img.shields.io/badge/C-00599C.svg?logo=c&amp;amp;logoColor=white" alt="C">
+&lt;img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&amp;amp;logoColor=white" alt="C++">
+&lt;img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&amp;amp;logoColor=white" alt="C#">
+&lt;img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=java&amp;amp;logoColor=white" alt="Java">
+&lt;img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&amp;amp;logoColor=white" alt="PHP">
+&lt;img src="https://img.shields.io/badge/R-276DC3.svg?logo=r&amp;amp;logoColor=white" alt="R">
+&lt;img src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&amp;amp;logoColor=white" alt="Swift">
+&lt;img src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&amp;amp;logoColor=white" alt="Kotlin">
+&lt;img src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&amp;amp;logoColor=white" alt="Go">
+&lt;img src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&amp;amp;logoColor=white" alt="Ruby">
+&lt;img src="https://img.shields.io/badge/Scala-DC322F.svg?logo=scala&amp;amp;logoColor=white" alt="Scala">
+&lt;img src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&amp;amp;logoColor=white" alt="Rust">
+&lt;img src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&amp;amp;logoColor=white" alt="Dart">
+&lt;img src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&amp;amp;logoColor=white" alt="Lua">
+&lt;img src="https://img.shields.io/badge/Perl-39457E.svg?logo=perl&amp;amp;logoColor=white" alt="Perl">
+&lt;img src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&amp;amp;logoColor=white" alt="Flutter">
+&lt;img src="https://img.shields.io/badge/Shell_script-121011.svg?logo=gnu-bash&amp;amp;logoColor=white" alt="Shell_script">
+&lt;img src="https://img.shields.io/badge/React-20232a.svg?logo=react&amp;amp;logoColor=61DAFB" alt="React">
+&lt;img src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&amp;amp;logoColor=white" alt="Redux">
+&lt;img src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&amp;amp;logoColor=61DAFB" alt="React_Native">
+&lt;img src="https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&amp;amp;logoColor=4FC08D" alt="VueJS">
+&lt;img src="https://img.shields.io/badge/Angular.js-E23237.svg?logo=angularjs&amp;amp;logoColor=white" alt="Angular">
+&lt;img src="https://img.shields.io/badge/Material" alt="Material">
+&lt;img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&amp;amp;logoColor=white" alt="Bootstrap">
+&lt;img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&amp;amp;logoColor=white" alt="jQuery">
+&lt;img src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&amp;amp;logoColor=white" alt="tailwindcss">
+&lt;img src="https://img.shields.io/badge/Django-092E20.svg?logo=django&amp;amp;logoColor=white" alt="Django">
+&lt;img src="https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&amp;amp;logoColor=white" alt="Rails">
+&lt;img src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&amp;amp;logoColor=white" alt="Laravel">
+&lt;img src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&amp;amp;logoColor=white" alt="Spring">
+&lt;img src="https://img.shields.io/badge/Flask-000.svg?logo=flask&amp;amp;logoColor=white" alt="Flask">
+&lt;img src="https://img.shields.io/badge/Sencha-86BC40?logo=sencha&amp;amp;logoColor=white" alt="Sencha">&lt;/p></description></item><item><title>内容</title><link>https://stanleyoho.github.io/tags/content/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/tags/content/</guid><description/></item><item><title>安装</title><link>https://stanleyoho.github.io/tags/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/tags/installation/</guid><description/></item><item><title>配置</title><link>https://stanleyoho.github.io/tags/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>stanly7768@gmail.com (Stanley Lin)</author><guid>https://stanleyoho.github.io/tags/configuration/</guid><description/></item></channel></rss>
