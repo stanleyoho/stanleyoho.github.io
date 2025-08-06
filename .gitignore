@@ -9,7 +9,6 @@ hugo_cache/
 resources/
 
 # 作業系統相關文件
-content/.DS_Store
 .DS_Store
 Thumbs.db
 *.swp
