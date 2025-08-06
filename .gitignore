@@ -1,10 +1,14 @@
-# Hugo build folder (除非你直接用 public/ 部署 GitHub Pages 才保留)
+# Hugo 生成的文件 (應該排除，因為是自動生成的)
 public/
-resources/
+resources/_gen/
+.hugo_build.lock
 hugo_stats.json
-hugo_cache/
 
-# OS 系統與 IDE 相關
+# Hugo 本地開發環境
+hugo_cache/
+resources/
+
+# 作業系統相關文件
 .DS_Store
 Thumbs.db
 *.swp
@@ -12,16 +16,53 @@ Thumbs.db
 *.bak
 *.tmp
 
-# VSCode 設定
+# 編輯器與 IDE 設定
 .vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
 
-# Netlify or other deploy artifacts
+# 部署相關文件
 netlify.toml
+.netlify/
 
-# Build logs
+# 日誌文件
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# 繁體字形暫存或臨時測試檔案
+# Node.js 相關 (如果主題需要 npm)
+node_modules/
+package-lock.json
+yarn.lock
+
+# 臨時測試文件
 test*
 temp*
 *.local.*
+*.draft.*
+
+# 環境變量文件
+.env
+.env.local
+.env.production
+
+# macOS 相關
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows 相關  
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 備份文件
+*.orig

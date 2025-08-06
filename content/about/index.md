@@ -2,24 +2,54 @@
 date = '2025-08-01T14:52:29+08:00'
 draft = false
 title = 'About Me'
-tags = ['']
+tags = ['about']
 categories = []
 lightgallery = true
 +++
-<p style="text-align: center;">
-  <img src="avatar.png" style="border-radius: 50%; width: 120px;"><br>
-  <em style="color: #7f8c8d;">Stanley Lin</em><br>
-  <em style="color: #7f8c8d;">Sr. Android Engineer</em><br>
-</p>
 
-<div style="margin-top: 1em; line-height: 1.8;">
-  <ul style="list-style: disc; padding-left: 1.2em;">
-    <li><span style="color: #27ae60;"><strong>9+ years</strong></span> working experience in software development.</li>
-    <li><span style="color: #e67e22;"><strong>6+ years</strong></span> of experience in Android application development.</li>
-    <li><span style="color: #c0392b;"><strong>3+ years</strong></span> of experience in building embedded systems for Windows.</li>
-    <li></span>Able to make an application from design the architecture to the end product independently. Love to work with a team to solve any kind of problems and overcome all difficulties. Passionate in create interesting applications and contributing in open source projects.</li>
+<div class="about-profile">
+  
+<div class="profile-header">
+  <div class="profile-avatar">
+    <img src="/images/avatar.png" alt="Stanley Lin" class="avatar-img">
+  </div>
+  <div class="profile-info">
+    <h1 class="profile-name">Stanley Lin</h1>
+    <p class="profile-title">Senior Android Engineer</p>
+    <p class="profile-summary">Passionate about creating exceptional mobile experiences and leading development teams to deliver innovative solutions.</p>
+  </div>
+</div>
 
-  </ul>
+<div class="profile-stats">
+  <div class="stat-item">
+    <div class="stat-number">9+</div>
+    <div class="stat-label">Years Software Development</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">6+</div>
+    <div class="stat-label">Years Android Development</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">3+</div>
+    <div class="stat-label">Years Embedded Systems</div>
+  </div>
+</div>
+
+<div class="profile-highlights">
+  <div class="highlight-item">
+    <h3>🏗️ Full-Stack Mobile Developer</h3>
+    <p>From architecture design to end product delivery, I build complete solutions independently while thriving in collaborative team environments.</p>
+  </div>
+  <div class="highlight-item">
+    <h3>👥 Technical Leadership</h3>
+    <p>Currently leading a 3-member development team, establishing coding standards and mentoring developers to deliver high-quality solutions.</p>
+  </div>
+  <div class="highlight-item">
+    <h3>🚀 Innovation Driver</h3>
+    <p>Passionate about exploring new technologies, contributing to open-source projects, and solving complex technical challenges.</p>
+  </div>
+</div>
+
 </div>
 
 # Work Experience
