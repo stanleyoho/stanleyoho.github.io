@@ -67,3 +67,4 @@ $RECYCLE.BIN/
 
 # 備份文件
 *.orig
+content/.DS_Store
