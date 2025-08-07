@@ -34,14 +34,17 @@ Based on the About page, this is a professional portfolio site featuring:
 
 ### Hugo Development
 ```bash
-# Serve locally for development
+# Serve locally for development (recommended for testing)
 hugo server --buildDrafts --disableFastRender
 
-# Build for production
+# Build for production (matches GitHub Actions workflow)
 hugo --gc --minify
 
 # Build with drafts for testing
 hugo --buildDrafts --gc
+
+# Quick local server without drafts
+hugo server
 ```
 
 ### Theme Development (if needed)
@@ -52,12 +55,24 @@ cd themes/LoveIt
 # Install dependencies
 npm install
 
-# Compile JavaScript
+# Compile JavaScript for theme
 npm run compile
 
-# Development server for theme
+# Development server for theme testing
 npm run hugo-server
+
+# Compile theme assets
+npm run compile-lunr-segmentit
 ```
+
+### GitHub Actions Deployment
+The site is automatically deployed via GitHub Actions when pushing to the `main` branch:
+- Uses Hugo v0.148.1 (extended version)
+- Builds with production environment variables
+- Deploys to GitHub Pages at https://stanleyoho.github.io/
+
+### Testing Custom CSS
+When modifying custom styles in `assets/css/_custom.scss`, the changes are automatically integrated via the theme's library configuration: `params.page.library.css.myCss = "css/_custom.scss"`
 
 ## Site Configuration
 
